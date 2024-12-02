@@ -10,4 +10,4 @@
 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts and Kubernetes security for better orchestration and cluster management.
 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines with Aws DevOps, GitHub Actions, and Jenkins to improve software delivery speed and reliability. Containerization Solutions: Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency. 
 
-GitPythonGNU BashVS CodeVimHTML5Amazon Web ServicesDockerLinux
+
