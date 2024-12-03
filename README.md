@@ -20,7 +20,7 @@
 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,vscode,linux,docker,python&perline=6)](https://skillicons.dev)
-![image](https://github.com/user-attachments/assets/dd938920-fe27-4ab3-85e2-47547390b07c)
+[![image](https://github.com/user-attachments/assets/dd938920-fe27-4ab3-85e2-47547390b07c)](https://camo.githubusercontent.com/864fd0121911ac1eb373da63bfca37c42d36ed964fe8233b363dedfa7bd11fd9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f6177732f616d617a6f6e5f6177732d69636f6e2e737667)
 
 
 
