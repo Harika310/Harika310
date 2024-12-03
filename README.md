@@ -17,7 +17,12 @@
 
 📫 You can reach me at harikaanvesh310@gmail.co![Uploading icons.svg…]()
 
-![logo@2x](https://github.com/user-attachments/assets/376ab969-9c6b-4122-a8a3-75b9d18d6abd)
+![logo@2x](https://github.com/user-attachments/assets/3d694b19-3e93-45a2-8de7-abf995177b9f)
+![Uploading python-colored.svg…]() ![Uploading gnubash.svg…]()![Uploading visualstudiocode.svg…]() ![Uploading aws-colored.svg…]()![Uploading docker-colored.svg…]()
+![Uploading linux-colored.svg…]()
+
+
+
 
 
 
