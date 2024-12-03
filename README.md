@@ -20,6 +20,8 @@
 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,vscode,linux,docker,python&perline=6)](https://skillicons.dev)
+![image](https://github.com/user-attachments/assets/dd938920-fe27-4ab3-85e2-47547390b07c)
+
 
 
 
