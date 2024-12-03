@@ -19,7 +19,7 @@
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gitbash,linux,docker,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,gitbash,linux,docker,python&perline=6)](https://skillicons.dev)
 
 
 
