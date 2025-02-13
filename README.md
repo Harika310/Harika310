@@ -10,7 +10,7 @@
  * Skills: Cloud Platforms: AWS, Infrastructure as Code: Terraform,  CI/CD Tools: Jenkins , Containerization: Docker&Kubernetes,  Monitoring Tools: CloudWatch, Prometheus Scripting: Shell, Bash, PowerShell 
       Networking: VPCs, Load Balancers, Security Groups Databases: RDS, SQL. Security: IAM, RBAC, Key Vault Deployment: EC2, VMs. 🌟 Let’s work together to bring success to your cloud projects!
    
- * 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts and Kubernetes security for better orchestration and cluster management.
+ * 🧠  I'm learned Kubernetes Advanced Concepts: Diving into topics like Helm charts and Kubernetes security for better orchestration and cluster management.
     
  * 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines 
           with 
