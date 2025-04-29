@@ -1,5 +1,5 @@
  👋 Hi, I'm Harika Eravathri
-* I'm Devops Engineer with 4+ Years of Cloud Experience.I work with AWS. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run 
+* I'm Devops Engineer with 8 Years of Cloud Experience.I work with AWS. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run 
    smoothly, scale well, and stay secure. I create CI/CD pipelines, automate deployments, and manage containers with Docker and Kubernetes. I aim to reduce downtime and improve development speed. I use 
    Terraform to set up cloud resources like VMs, App Services, EC2, S3, and Load Balancers. scanning tools like Sonar, Veracode, ECR scan.We use monitor performance with tools like CloudWatch, and 
    Prometheus- 
