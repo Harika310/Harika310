@@ -2,15 +2,15 @@
 
 🚀 Senior DevOps Engineer | Cloud & Platform Engineering | AWS Specialist
 
-I’m a DevOps Engineer with 9+ years of experience designing, automating, and managing scalable, secure, and highly available cloud infrastructure. I focus on accelerating software delivery, improving system reliability, and enabling teams to ship faster with confidence.
+I’m a Senior DevOps Engineer with 9+ years of experience building scalable, secure, and automated cloud platforms. I specialize in AWS, Kubernetes, CI/CD automation, Infrastructure as Code, and SRE best practices**—helping teams ship faster, safer, and with confidence.
 
 💡 About Me
 
-- ☁️ Strong expertise in AWS cloud infrastructure
-- ⚙️ Passionate about automation, CI/CD, and Infrastructure as Code
-- 🐳 Experienced in Docker & Kubernetes orchestration
-- 📈 Focused on observability, performance, and reliability
-- 🔐 Advocate for secure and compliant cloud environments
+- ☁️ AWS-focused cloud engineer with multi-cloud experience (Azure, GCP)  
+- ⚙️ Passionate about automation, CI/CD, and platform reliability  
+- 🐳 Skilled in Docker, Kubernetes, Helm & microservices architecture  
+- 📈 Obsessed with observability, performance, and operational excellence  
+- 🔐 Advocate for secure, compliant, and resilient cloud environments 
 
 🛠️ Tech Stack
 
@@ -18,14 +18,13 @@ I’m a DevOps Engineer with 9+ years of experience designing, automating, and m
 - AWS (EC2, S3, RDS, VPC, Load Balancers)
 
 🏗️ Infrastructure as Code
-- Terraform
-- AWS CloudFormation
+- Terraform, CloudFormation, Ansible, Puppet, Chef
 
  🔄 CI/CD & Automation
-- Jenkins, GitHub Actions, AWS DevOps Tools, Azure Devops
+- Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline  
 
 🐳 Containers & Orchestration
-- Docker, Kubernetes, Helm
+- Docker, Kubernetes, Helm, ECS, OpenShift
 
 📊 Monitoring & Observability
 - CloudWatch, Prometheus, Grafana, ELK, Splunk
@@ -37,7 +36,7 @@ I’m a DevOps Engineer with 9+ years of experience designing, automating, and m
 - VPCs, Subnets, Security Groups, Load Balancers
 
 🗄️ Databases
-- RDS, SQL
+- RDS, MySQL, SQL, DynamoDB 
 
 🔐 Security & Quality
 - IAM, RBAC  
@@ -54,11 +53,11 @@ I’m a DevOps Engineer with 9+ years of experience designing, automating, and m
 
 🧠 Expertise
 
-- Kubernetes Advanced Concepts (Helm, security, scaling)  
-- Cloud Infrastructure Automation  
-- CI/CD Pipeline Design & Optimization  
-- Monitoring, Logging & Performance Tuning  
-- DevOps & SRE Best Practices  
+- Kubernetes (Helm, scaling, security, networking)  
+- Cloud infrastructure automation (AWS + Terraform)  
+- CI/CD pipeline design & optimization  
+- Observability, logging, and performance tuning  
+- DevOps & SRE best practices 
 
 🤝 Open to Collaborate
 
@@ -69,7 +68,7 @@ I’m a DevOps Engineer with 9+ years of experience designing, automating, and m
 
 ⚡ Currently Learning
 
-Exploring new tools and evolving practices in **DevOps, Cloud, and Platform Engineering** to stay ahead in building modern, scalable systems.
+ Exploring advanced DevOps, cloud security, and platform engineering practices to build modern, scalable systems.
 
 📫 Let’s Connect
 
