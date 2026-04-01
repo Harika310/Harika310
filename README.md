@@ -1,6 +1,6 @@
  👋 Hi, I'm Harika Eravathri
 
-🚀 Senior DevOps Engineer | Cloud & Platform Engineering | AWS Specialist
+🚀 **Senior DevOps Engineer | Cloud & Platform Engineering | AWS Specialist**
 
 I’m a Senior DevOps Engineer with 9+ years of experience building scalable, secure, and automated cloud platforms. I specialize in AWS, Kubernetes, CI/CD automation, Infrastructure as Code, and SRE best practices**—helping teams ship faster, safer, and with confidence.
 
